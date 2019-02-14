@@ -79,7 +79,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.2.0",
-    "@videojs/http-streaming": "git://github.com/gesinger/http-streaming.git#transmux-before-append-lhls",
+    "@videojs/http-streaming": "git://github.com/gesinger/http-streaming.git",
     "global": "4.3.2",
     "keycode": "^2.2.0",
     "safe-json-parse": "4.0.0",
